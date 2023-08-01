@@ -25,6 +25,9 @@ dfx config --help
 If you want to test your project locally, you can use the following commands:
 
 ```bash
+
+# only  front-end
+https://codesandbox.io/s/using-pre-built-react-components-completed-58bxk?fontsize=14&hidenavigation=1&theme=dark
 # Starts the replica, running in the background
 dfx start --background
 # download the packages
